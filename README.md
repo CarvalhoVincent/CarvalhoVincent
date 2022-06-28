@@ -21,7 +21,8 @@
 <img align="left" height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn">
 <img align="left" height="32px" width="32px" alt="GitHub logo" src="https://bit.ly/3nlY4kZ">
 <br>
-## Stats
+
+### Stats
 
 ![Vincent's stats](https://github-readme-stats.vercel.app/api?username=CarvalhoVincent&theme=tokyonight&show_icons=true)
 
@@ -32,7 +33,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarvalhoVincent&theme=tokyonight&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Carvalho Vincent" /></p>
 
 
-![Activity](https://activity-graph.herokuapp.com/graph?username=CarvalhoVincent&no-frame=true&theme=tokyonight)
+![Activity](https://activity-graph.herokuapp.com/graph?username=CarvalhoVincent&no-frame=true&theme=dark)
 
 
 ![Vincent's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarvalhoVincent&hide_border=true&v=2)
