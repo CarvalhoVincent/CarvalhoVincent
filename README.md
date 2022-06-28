@@ -43,6 +43,6 @@
 ![Activity](https://activity-graph.herokuapp.com/graph?username=CarvalhoVincent&no-frame=true&theme=dark)
 
 
-![Vincent's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarvalhoVincent&hide_border=true&v=2)
+![Vincent's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@CarvalhoVincent&hide_border=true&v=2)
 
 
