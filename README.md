@@ -5,7 +5,7 @@
 <p align='center'>
 
 <h3 align="left">Connect with me:</h3>
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-carvalho-50337363/)](https://www.linkedin.com/in/vincent-carvalho-50337363/)
+![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-carvalho-50337363/)
 
 
 - 🌱 I’m currently learning **JS and HTML & CSS**
