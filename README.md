@@ -16,6 +16,8 @@
 - 😍 My hobbies are music, play guitar and astrophysics
 - 📪 How to reach me **carvalhovincent1@gmail.com**
 
+<hr>
+
 ### 📐 Languages and Tools
 
 <img align="left" height="32px" width="32px" alt="HTML logo" src="https://bit.ly/3gP4Qgx">
@@ -25,6 +27,7 @@
 <img align="left" height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn">
 <br>
 <br>
+<hr>
 
 ### 📊 Stats
 
