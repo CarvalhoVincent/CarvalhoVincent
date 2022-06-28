@@ -1,11 +1,11 @@
 <h1> Hello < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px> </h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%3b64a2&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Vincent+Carvalho;Frontend+Developer+Student;Guitar+Teacher;">
+<img src="https://readme-typing-svg.herokuapp.com?color=%001390&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Vincent+Carvalho;Frontend+Developer+Student;Guitar+Teacher;">
 </p>
 <p align='center'>
 
 <h3 align="left">Connect with me:</h3>
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-carvalho/)](https://www.linkedin.com/in/vincent-carvalho/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-carvalho-50337363/)](https://www.linkedin.com/in/vincent-carvalho-50337363/)
 
 
 - 🌱 I’m currently learning **JS and HTML & CSS**
@@ -40,4 +40,4 @@
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;# Vincent
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
