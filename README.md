@@ -23,13 +23,13 @@
 
 ## Stats
 
-![Vincent's stats](https://github-readme-stats.vercel.app/api?username=CarvalhoVincent&show_icons=true)
+![Vincent's stats](https://github-readme-stats.vercel.app/api?username=CarvalhoVincent&theme=tokyonight&show_icons=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarvalhoVincent&layout=compact&theme=tokyonight)(https://github.com/CarvalhoVincent/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarvalhoVincent&layout=compact&theme=tokyonight)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarvalhoVincent&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Carvalho Vincent" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarvalhoVincent&theme=tokyonight&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Carvalho Vincent" /></p>
 
 
 ![Activity](https://activity-graph.herokuapp.com/graph?username=CarvalhoVincent&no-frame=true)
