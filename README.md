@@ -1,6 +1,6 @@
 <h1> Hello < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 15px> </h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=black&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Vincent+Carvalho;Frontend+Developer+Student;Guitar+Teacher;">
+<img src="https://readme-typing-svg.herokuapp.com?color=000000&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Vincent+Carvalho;Frontend+Developer+Student;Guitar+Teacher;">
 </p>
 <p align='center'>
 
@@ -23,7 +23,7 @@
 
 ## Stats
 
-(https://github-readme-stats.vercel.app/api?username=CarvalhoVincent&show_icons=true)
+[![Vincent's stats](https://github-readme-stats.vercel.app/api?username=CarvalhoVincent&show_icons=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarvalhoVincent&layout=compact&theme=tokyonight)](https://github.com/CarvalhoVincent/github-readme-stats)
@@ -32,7 +32,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarvalhoVincent&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Carvalho Vincent" /></p>
 
 
-[![Activity](https://activity-graph.herokuapp.com/graph?username=CarvalhoVincent-218&no-frame=true)
+[![Activity](https://activity-graph.herokuapp.com/graph?username=CarvalhoVincent&no-frame=true)
 
 
 ![Vincent's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarvalhoVincent&hide_border=true&v=2)
