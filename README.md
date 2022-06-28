@@ -5,7 +5,9 @@
 <p align='center'>
 
 <h3 align="left">Connect with me:</h3>
-![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-carvalho-50337363/)
+<a href="https://www.linkedin.com/in/vincent-carvalho/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Vincent CARVALHO" height="30" width="40" /></a>
 
 
 - 🌱 I’m currently learning **JS and HTML & CSS**
@@ -22,7 +24,8 @@
 <img align="left" height="32px" width="32px" alt="GitHub logo" src="https://bit.ly/3nlY4kZ">
 <br>
 
-### Stats
+
+### 📊 Stats
 
 ![Vincent's stats](https://github-readme-stats.vercel.app/api?username=CarvalhoVincent&theme=tokyonight&show_icons=true)
 
