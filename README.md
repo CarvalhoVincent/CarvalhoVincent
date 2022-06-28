@@ -1,13 +1,15 @@
-<h1> Hello < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 15px> </h1>
+<h1> Hello < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 10px> </h1>
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=000000&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Vincent+Carvalho;Frontend+Developer+Student;Guitar+Teacher;">
 </p>
 <p align='center'>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/vincent-carvalho/" target="blank"><img align="center"
+<a href="https://www.linkedin.com/in/vincent-carvalho-50337363/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Vincent CARVALHO" height="30" width="40" /></a>
+<br>
+<hr>
 
 
 - 🌱 I’m currently learning **JS and HTML & CSS**
@@ -21,7 +23,6 @@
 <img align="left" height="32px" width="32px" alt="JS logo" src="https://bit.ly/3r1kzxY">
 <img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://bit.ly/3qZmQcU">
 <img align="left" height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn">
-<img align="left" height="32px" width="32px" alt="GitHub logo" src="https://bit.ly/3nlY4kZ">
 <br>
 
 
