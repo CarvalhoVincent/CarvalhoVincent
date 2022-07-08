@@ -1,6 +1,6 @@
 <h1> Hello < Coders/ >!</h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=cornflowerblue&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Vincent+Carvalho;Frontend+Developer+Student;Guitar+Teacher;">
+<img src="https://readme-typing-svg.herokuapp.com?color=cornflowerblue&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Vincent+Carvalho;Guitar+Teacher;">
 </p>
 <p align='center'>
 
