@@ -42,7 +42,7 @@
 
 ![Activity](https://activity-graph.herokuapp.com/graph?username=CarvalhoVincent&theme=dark)
 
-### 📊 Weekly stats
+### 📊 Stats
 ![Vincent's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarvalhoVincent&hide_border=true&v=2)
 
 
