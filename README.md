@@ -3,9 +3,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=cornflowerblue&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Vincent+Carvalho;Guitar+Teacher;">
 </p>
 <p align='center'>
-<script src="https://tryhackme.com/badge/1707509"></script>
+
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/vincent-carvalho-50337363/" target="blank"><img align="center"
+<a href="https://www.linkedin.com/in/vincent-carvalho/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Vincent CARVALHO" height="30" width="40" /></a>
 <br>
@@ -40,7 +40,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarvalhoVincent&theme=tokyonight&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Carvalho Vincent" /></p>
 
 
-![Activity](https://activity-graph.herokuapp.com/graph?username=CarvalhoVincent&theme=dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CarvalhoVincent&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 📊 Stats
 ![Vincent's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarvalhoVincent&hide_border=true&v=2)
