@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=cornflowerblue&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Vincent+Carvalho;Guitar+Teacher;">
 </p>
 <p align='center'>
-
+<script src="https://tryhackme.com/badge/1707509"></script>
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/vincent-carvalho-50337363/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
