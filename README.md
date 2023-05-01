@@ -12,7 +12,7 @@
 <hr>
 
 
-- 🌱 I’m currently learning **JS and HTML & CSS**
+- 🌱 I’m currently learning **Cybersecurity**
 - 😍 My hobbies are music, play guitar and astrophysics
 - 📪 How to reach me **carvalhovincent1@gmail.com**
 
