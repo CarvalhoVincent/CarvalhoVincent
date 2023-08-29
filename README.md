@@ -25,6 +25,15 @@
 <img align="left" height="32px" width="32px" alt="JS logo" src="https://bit.ly/3r1kzxY">
 <img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://bit.ly/3qZmQcU">
 <img align="left" height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn">
+<img align="left" height="32px" width="32px" alt="Python logo" src="https://iuliantatarascu.github.io/silence-theme/screenshots/light-py.png">
+<img align="left" height="32px" width="32px" alt="C logo" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/c.png">
+<img align="left" height="32px" width="32px" alt="debian logo" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/debian.png">
+<img align="left" height="32px" width="32px" alt="php logo" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/php.png">
+<img align="left" height="32px" width="32px" alt="nodejs logo" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/nodejs.png">
+<img align="left" height="32px" width="32px" alt="mysql logo" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mysql.png">
+<img align="left" height="32px" width="32px" alt="docker logo" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/docker.png">
+<img align="left" height="32px" width="32px" alt="postgresql logo" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/postgresql.png">
+<img align="left" height="32px" width="32px" alt="linux logo" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/linux.png">
 <br>
 <br>
 <hr>
