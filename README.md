@@ -25,7 +25,7 @@
 <img align="left" height="32px" width="32px" alt="JS logo" src="https://bit.ly/3r1kzxY">
 <img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://bit.ly/3qZmQcU">
 <img align="left" height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn">
-<img align="left" height="32px" width="32px" alt="Python logo" src="https://iuliantatarascu.github.io/silence-theme/screenshots/light-py.png">
+<img align="left" height="32px" width="32px" alt="python logo" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/python.png">
 <img align="left" height="32px" width="32px" alt="C logo" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/c.png">
 <img align="left" height="32px" width="32px" alt="debian logo" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/debian.png">
 <img align="left" height="32px" width="32px" alt="php logo" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/php.png">
