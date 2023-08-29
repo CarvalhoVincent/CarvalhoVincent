@@ -1,6 +1,8 @@
 <h1> Hello < Coders/ >!</h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=cornflowerblue&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Vincent+Carvalho;Guitar+Teacher;">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D6686F4&width=435&lines=Cybersecurity+learner">
+   https://readme-typing-svg.herokuapp.com?color=cornflowerblue&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Vincent+Carvalho;Guitar+Teacher;
+      [![Typing SVG]()
 </p>
 <p align='center'>
 
