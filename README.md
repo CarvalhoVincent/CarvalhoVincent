@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Cybersecurity**
 - 😍 My hobbies are music, play guitar and astrophysics
 - 📪 How to reach me **carvalhovincent1@gmail.com**
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2222c587-8e1f-4a32-a449-fdebd29f0996" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <hr>
 
 ### 📐 Languages and Tools
